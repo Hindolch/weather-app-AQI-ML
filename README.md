@@ -1,5 +1,6 @@
 # weather-app-AQI-ML
-# available cities for AQI are: 
+# Available cities for AQI prediction are: 
+# Along with the prediction the webapp also provides the current weather status
 Ahmedabad             
 Delhi                 
 Mumbai                
